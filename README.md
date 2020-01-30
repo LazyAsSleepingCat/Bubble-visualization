@@ -2,8 +2,6 @@
 
 Simple bubble sort animation in pygame.
 
-> test
-
 ## Getting started
 This project uses two modules
 - pygame
@@ -19,3 +17,5 @@ And
     pip3 install numpy
     
 In older python versions use `pip` insted of `pip3`
+
+> test
