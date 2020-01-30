@@ -2,7 +2,7 @@
 
 Simple bubble sort animation in pygame.
 
-![alt text](https://github.com/LazyAsSleepingCat/Bubble-visualization/blob/master/img.png)
+![alt text](https://github.com/LazyAsSleepingCat/Bubble-visualization/blob/master/running.png)
 
 
 
