@@ -20,6 +20,6 @@ And
 
     pip3 install numpy
     
-In older versions of python use `pip` insted of `pip3`
+In older versions of python use `pip` instead of `pip3`
 
 > test
