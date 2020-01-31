@@ -22,4 +22,6 @@ And
     
 In older versions of python use `pip` instead of `pip3`
 
-> test
+## Running
+
+![GIF](https://github.com/LazyAsSleepingCat/Bubble-visualization/blob/master/animation.gif)
